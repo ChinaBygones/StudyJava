@@ -2,7 +2,7 @@ package org.study.map;
 
 import java.util.HashMap;
 
-public class Main {
+public class Map {
     public static void main(String[] args) {
         //创建map对象 sites
         HashMap<Integer,String> Sites = new HashMap<Integer,String>();
